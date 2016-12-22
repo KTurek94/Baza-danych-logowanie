@@ -13,7 +13,6 @@
 <!DOCTYPE HTML>
 <html lang="pl">
 <head>
-<link href='images/style.css' rel='stylesheet'>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	<title>Re-Spot</title>
@@ -22,6 +21,9 @@
 <body>
 	
 	
+	
+	<a href="rejestracja.php">Rejestracja - załóż darmowe konto!</a>
+	<br /><br />
 	
 	<form action="zaloguj.php" method="post">
 	

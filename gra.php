@@ -19,13 +19,18 @@
 </head>
 
 <body>
-	
+	 
 <?php
 
 	echo "<p>Witaj ".$_SESSION['user'].'! [ <a href="logout.php">Wyloguj się!</a> ]</p>';
 	
 	
 	echo "<p><b>E-mail</b>: ".$_SESSION['email'];
+	
+
+	
+	  
+	 
 	
 ?>
 
